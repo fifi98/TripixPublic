@@ -7,3 +7,15 @@ Tripix is a mobile application available both for iOS and Android platforms whic
 
 ## Duration
 - March 2020 - July 2020
+
+## Technologies used
+My responsibilities on this project were front-end development using React Native and REST API integration.
+
+Front-end:
+- React Native
+
+Back-end:
+- Laravel
+
+Database management:
+- MySQL
