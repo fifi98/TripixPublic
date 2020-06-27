@@ -19,3 +19,11 @@ Back-end:
 
 Database management:
 - MySQL
+
+## Home screen
+<p align="center">
+<img src="https://github.com/fifi98/TripixPublic/blob/master/screenshots/1.png?raw=true" alt="" width="30%"/>
+</p>
+All the main application's functionalities can be seen straight from the simple modern looking home screen - creating a new route, viewing planned routes, viewing finished routes, creating a suggested route and finding nearby places (restaurants, coffee shops, shops and attractions).
+
+## Creating a new route
