@@ -74,3 +74,16 @@ After that, user is asked to pick an ending location for his trip after which a 
 ## Tracking trip progress
 
 Except for the planning itself, Tripix also helps users during the planned trip. When user arrives at the location of his trip, he can open the created trip from "Planned routes" section and press "Start route". After that, the application is tracking user's location and is marking which landmarks user has visited. It also tells the user which landmark he has to visit next according to the generated optimal trip route.
+
+This functionality can be seen on https://youtu.be/aTVQiE2uQjo (1:30)
+
+## Discovering nearby locations
+
+Besides routes, users can also discover some locations in the nearby which might be useful during a trip. Users can choose from the main screen to view nearby restaurants, coffee shops, shops and attractions.
+
+<p align="center">
+  <img src="https://github.com/fifi98/TripixPublic/blob/master/screenshots/16.png?raw=true" width="22%" />
+  <img src="https://github.com/fifi98/TripixPublic/blob/master/screenshots/17.png?raw=true" width="22%" /> 
+  <img src="https://github.com/fifi98/TripixPublic/blob/master/screenshots/18.png?raw=true" width="22%" />
+  <img src="https://github.com/fifi98/TripixPublic/blob/master/screenshots/19.png?raw=true" width="22%" />
+</p>
